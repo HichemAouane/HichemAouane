@@ -1,5 +1,5 @@
 <a herf="aouane4hichem@gmail.com"> 
-<img src="https://camo.githubusercontent.com/b850d58facb08be1d4d2be081efdd608c9a26a1ff1b70c754b56651c2f655b12/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a73616272696e612e616772616e653140676d61696c2e636f6d" alt="Gmail" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;link=mailto:sabrina.agrane1@gmail.com" style="max-width: 100%;"> </a>
+<img src="https://camo.githubusercontent.com" alt="Gmail" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;link=mailto:aouane4hichel@gmail.com" style="max-width: 100%;"> </a>
 <h1 align="center">Hi 👋, I'm Hichem</h1>
 <h3 align="center">Im An Algerian Computer Science Student</h3>
 <img align= "right" alt="Coding" width "400" src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fn8agw6z2smyb1.gif">
