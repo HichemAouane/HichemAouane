@@ -2,7 +2,7 @@
 <img src="https://camo.githubusercontent.com/966e45024dfa838a019fddd7073d5d2907209b021e9b822d51cfd296dfcacbab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a616d696e652e616772616e653140676d61696c2e636f6d"" alt="Gmail" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;link=mailto:aouane4hichel@gmail.com" style="max-width: 100%;"> </a>
 <h1 align="center">Hi 👋, I'm Hichem</h1>
 <h3 align="center">Im An Algerian Computer Science Student</h3>
-<img align="right" alt="GIF" src="https://github.com/sabrina1ag/sabrina1ag/raw/main/giphy.webp" width="370" height="235" style="max-width: 100%;">
+<img align="right" alt="GIF" src="[https://github.com/sabrina1ag/sabrina1ag/raw/main/giphy.webp](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmxwZzB5Z3pham5qemtoOGs0bGhqdmM3Y2o0czhoNG0xbTlhZzhieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp)" width="370" height="235" style="max-width: 100%;">
 
 - 🌱 I’m currently learning **Cybersecurity and Kali Linux**
 
