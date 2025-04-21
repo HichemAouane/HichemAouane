@@ -20,4 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hichemaouane&show_icons=true&locale=en&layout=compact" alt="hichemaouane" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hichemaouane&show_icons=true&locale=en&layout=compact" alt="hichemaouane" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hichemaouane&show_icons=true&locale=en" alt="hichemaouane" /></p>
