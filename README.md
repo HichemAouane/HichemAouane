@@ -3,12 +3,12 @@
 <h3 align="left" class="heading-element" dir="auto">Connect with me:</h3>
 <a herf="aouane4hichem@gmail.com"> 
 <img src="https://camo.githubusercontent.com/966e45024dfa838a019fddd7073d5d2907209b021e9b822d51cfd296dfcacbab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a616d696e652e616772616e653140676d61696c2e636f6d"" alt="Gmail" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;link=mailto:aouane4hichel@gmail.com" style="max-width: 100%;"> </a>
-<h3 align="center">Im An Algerian Computer Science Student</h3>
+<h3 align="center">Im An Algerian CyberSecurity Student</h3>
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952j172xgowiv4uz8umdmrsncfygbo8fcbwzz29rys0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="370" height="235" style="max-width: 100%;">
 
 - 🌱 I’m currently learning **Cybersecurity and Kali Linux**
 
-- 💬 Ask me about **IA, Python or Data**
+- 💬 Ask me about **CyberSecurity, Ethical hacking or Networks**
 
 - 📫 How to reach me **Aouane4hichem@gmail.com**
 
