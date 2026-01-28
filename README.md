@@ -3,7 +3,7 @@
 <h3 align="center">Im A CyberSecurity Student</h3>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/26tPnAAJxXTvpLwJy/giphy.gif?cid=ecf05e471gm2j8xiewj57aoq5bu03ghujl44uqcz2uxb76hn&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="370" height="235" style="max-width: 100%;">
 
-- 🌱 I’m currently learning **Pentesting and Ethical hacking**
+- 🌱 I’m currently learning **Reverse engineering and Incident response**
 
 - 💬 Ask me about **CyberSecurity, CTF's or Networks**
 
